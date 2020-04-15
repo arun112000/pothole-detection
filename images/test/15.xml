@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>15.jpeg</filename>
+	<path>/home/arun/Desktop/sih/workspace/trainig_demo/images/test/15.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>47</ymin>
+			<xmax>300</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

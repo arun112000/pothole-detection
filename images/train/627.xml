@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>627.jpeg</filename>
+	<path>/home/arun/Desktop/sih/data/images/627.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>177</ymin>
+			<xmax>235</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>
